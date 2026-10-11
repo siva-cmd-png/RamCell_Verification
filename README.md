@@ -1,4 +1,4 @@
-# Experiment 4 – 8×8 RAM Verification using SystemVerilog
+8×8 RAM Verification using SystemVerilog
 
 ## 📌 Experiment Title
 
